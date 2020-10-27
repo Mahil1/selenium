@@ -1,6 +1,6 @@
 package generics;
 
-public class Demo {
+public class DemoPage {
 	
 	public static void main(String[]args)
 	{
